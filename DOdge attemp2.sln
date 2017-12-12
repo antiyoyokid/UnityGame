@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DOdge attemp2.Plugins", "DOdge attemp2.Plugins.csproj", "{529BEF0A-C95C-B9D1-D2C7-6C76D3156185}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DOdge attemp2", "DOdge attemp2.csproj", "{B1DFC38F-C30D-B924-C840-FD9E565F11CD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DOdge attemp2.Editor.Plugins", "DOdge attemp2.Editor.Plugins.csproj", "{D5F18994-E368-025F-2FB8-C1FAFE26B323}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{529BEF0A-C95C-B9D1-D2C7-6C76D3156185}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{529BEF0A-C95C-B9D1-D2C7-6C76D3156185}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{529BEF0A-C95C-B9D1-D2C7-6C76D3156185}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{529BEF0A-C95C-B9D1-D2C7-6C76D3156185}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B1DFC38F-C30D-B924-C840-FD9E565F11CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1DFC38F-C30D-B924-C840-FD9E565F11CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1DFC38F-C30D-B924-C840-FD9E565F11CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1DFC38F-C30D-B924-C840-FD9E565F11CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D5F18994-E368-025F-2FB8-C1FAFE26B323}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5F18994-E368-025F-2FB8-C1FAFE26B323}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5F18994-E368-025F-2FB8-C1FAFE26B323}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5F18994-E368-025F-2FB8-C1FAFE26B323}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
